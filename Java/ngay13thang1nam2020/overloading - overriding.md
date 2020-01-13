@@ -8,7 +8,7 @@ Bài học về chồng chất phương thức - Overloading method
 
 
 Trong Java, overloading được định nghĩa là nạp chồng phương thức, có nghĩa là nếu trong một lớp có nhiều phương thức cùng tên nhưng:
-* Khách nhau về đối số truyền vào và các đối số có cùng kiểu dữ liệu
+* Khác nhau về đối số truyền vào và các đối số có cùng kiểu dữ liệu
 * Có cùng số đối số truyền vào và các đối số không có cùng kiểu dữ liệu. 
 * Khác nhau trình tự kiểu dữ liệu của các đối số.
 
